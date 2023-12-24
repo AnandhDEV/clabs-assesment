@@ -1,0 +1,13 @@
+.segment_container {
+  height: 100vh;
+  padding: 20px;
+}
+
+.segment_form_container {
+  padding: 0 32px 10px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 75%;
+  overflow-y: auto;
+}
